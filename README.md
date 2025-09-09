@@ -11,7 +11,7 @@
 ## Profiles
 
  [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/rafiulislam)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafiul-islam-2ab230379)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/therafiulislam)
  [![CodeForces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/The_rafiul_56)
  
 ---
@@ -43,7 +43,7 @@
 ## Let's Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rafiul-islam-2ab230379" target="_blank">
+  <a href="https://www.linkedin.com/in/therafiulislam" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/the_saikalumi_56" target="_blank">
