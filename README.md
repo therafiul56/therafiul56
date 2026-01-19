@@ -12,7 +12,12 @@
 
  [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/rafiulislam)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/therafiulislam)
- [![CodeForces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/The_rafiul_56)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/)
+[![CodeForces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/The_rafiul_56)
+[![HackerRank](https://img.shields.io/badge/Hackerrank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/the_saikalumi_56)
+<a href="https://toph.co/u/"> <img src="https://static.toph.co/images/logo-white.png" alt="Toph" height="28"/></a>
+[![VJUDGE](https://vjudge.net/static/bundle/11b24ab2156955d8f3fa.ico?style=for-the-badge&logo=vjudgee&logoColor=white)](https://vjudge.net/user/)
  
 ---
 
